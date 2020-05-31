@@ -8,5 +8,5 @@ I'm really glad to introduce my group:
 - [Miroslav](./miroslav.md)
 - [Yana](yana.md)
 - [Murielle](murielle.md)
-- Boam
+- [Boam](boam.md)
 - [Feruz](feruz.md)
