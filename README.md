@@ -7,7 +7,7 @@ I'm really glad to introduce my group:
 - Harun
 - Miroslav
 - Yana
-- Murielle
+- [Murielle](murielle.md)
 - Boam
 - [Feruz](feruz.md)
 
