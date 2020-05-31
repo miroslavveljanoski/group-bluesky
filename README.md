@@ -10,4 +10,4 @@ I'm really glad to introduce my group:
 - [Murielle](murielle.md)
 - Boam
 - [Feruz](feruz.md)
-
+- [Stephane](snicoll.md) 
