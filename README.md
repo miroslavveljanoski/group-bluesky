@@ -1,6 +1,6 @@
 # group-bluesky
 
-- Harun
+- [Harun](./harun.md)
 - [Miroslav](./miroslav.md)
 - Feruz
 - Boam
