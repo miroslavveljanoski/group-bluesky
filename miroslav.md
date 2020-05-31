@@ -13,7 +13,7 @@ My hobbies: :relaxed:
 - Hiking
 - Watching movies
 - Exploring new things
-- Traveling the world 
+
 
 You can reach me everytime on:
 * [GitHub](https://github.com/miroslavveljanoski)
