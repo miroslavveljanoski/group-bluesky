@@ -6,8 +6,7 @@ I'm really glad to introduce my group:
 
 - Harun
 - [Miroslav](./miroslav.md)
-- Yana
+- [Yana](yana.md)
 - [Murielle](murielle.md)
 - Boam
 - [Feruz](feruz.md)
-
