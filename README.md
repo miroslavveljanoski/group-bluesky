@@ -9,5 +9,5 @@ I'm really glad to introduce my group:
 - Yana
 - Murielle
 - Boam
-- [Feruz](./feruz.md)
+- [Feruz](feruz.md)
 
